@@ -1,0 +1,63 @@
+Go over syllabus
+Get Hots order info
+Tour info
+The website
+
+The particle editor (Cascade)
+	What is it used for?
+	How is it structured?
+	
+Cascade
+	Lifetime
+	Required
+	Spawn
+	Initial Size
+	Initial Velocity
+	Initial Location
+	Initial Rotation
+	Initial RotRate
+	Color over life
+	Size over life
+	Acceleration
+	
+Modifying Unreal through script
+	Differences between doing this and kismet
+	Several ways to do it.  Today is dedicated to modifying existing Unrealscript
+	Next week
+	
+Modifying the physics gun directly
+	IMpulse strength
+Modifying the rocket launcher directly
+	Fire interval
+
+	
+Explosion for rocket launcher projectile
+Weapon projectile effects For rocket launcher
+
+Modified Shock rifle
+	UTGameContent/UTWeap_ShockRifle
+	Make it an instagib shock rifle
+	Make the beam red
+	
+Homework
+
+Primary Weapon projectile for the link gun
+	Modify color to be something different
+	Modify at least two other properties
+		Damage, Speed, size
+		ie: Make it move extremely slowly, but do lots of damage
+Alternate Weapon projectile for shock rifle
+	Change emitter to be red (to match the instagib one)
+	Modify at least two other properties
+		Damage, Speed, size
+		ie: Make it move extremely slowly, but do lots of damage
+Shock combo Explosion for shock rifle 
+	Make red, bigger
+	Modify at least two other properties
+		Damage, Speed, size
+		ie: Make it move extremely slowly, but do lots of damage
+	
+
+Next week:
+Making your own rocket launcher
+What if you want to still have the original gun?
