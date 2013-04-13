@@ -1,0 +1,66 @@
+* Blizzard tour info
+* Review last week
+	* Cascade
+	* Editing projectiles and weapons
+* Collecting homework
+* How to compile without running the game
+	* Why do we need to do this?
+* Mutators, what are they and why are they cool?
+	* Modifying game info (in the future)
+* Modifying other mutators
+	UTMutator_Arena.uc
+	UTMutator_BigHead.uc
+	UTMutator_FriendlyFire.uc
+	UTMutator_Handicap.uc
+	UTMutator_LowGrav.uc
+	UTMutator_NoHoverboard.uc
+	UTMutator_NoPowerups.uc
+	UTMutator_Slomo.uc
+	UTMutator_SlowTimeKills.uc
+	UTMutator_SpeedFreak.uc
+	UTMutator_SuperBerserk.uc
+	UTMutator_WeaponsRespawn.uc
+* Modifying the muzzle flash light
+	* Modifying the explosion light
+* Making a new folder for our custom package
+	* Required pieces:
+		* Class header (needs to match the file name)
+		* Default properties	
+	* How to determine which class to derive
+	* Basic introduction into class derivation
+	* Rocket launcher
+	* Creating new weapons
+	* Adding them to unreal ed
+		* Via kismet
+		* Via pickup factory
+		* Via default inventory properties in the game info
+	* More work with cascade
+		* Location modules
+		* Exporting emitters from one to another
+* Creating new projectiles
+	* Spawning them in unreal ed
+* Making a mutator
+	* DefaultGame.txt
+	* Mutator section
+		[CustomMutator_HighGrav UTUIDataProvider_Mutator]
+		FriendlyName="High Grav"
+		Description="High gravity affecting jumping"
+		ClassName=CustomMutator.CustomMutator_HighGrav
+		GroupNames=Jumping
+		bStandaloneOnly=1
+		bRemoveOn360=False
+		bRemoveOnPC=False
+		bRemoveOnPS3=False
+		* Description and friendly name can go in utgame.int
+	* How to discover what properties do what, and what to modify (example: Gravity)
+* Homework
+	* Make two custom mutators in your own package
+		* Should be derived off of one of the other mutators
+		* Don't forget to edit the DefaultGame.txt file to have it show up in the list properly
+	* Make a custom weapon in your own package
+		* Derived off of the shock rifle or link gun.
+		* Make a level that gives this weapon to the player.
+	* Make a custom projectile for your weapon
+	* Make a custom projectile light for your weapon
+	
+* Next time - changing default inventory in the game info
