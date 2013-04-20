@@ -1,12 +1,18 @@
 Collect Homework
 Review Blizzard tour
 Discuss first steps geometry wars style game
+Kismet review
 Introduce Mouse Interface Game
 	Step through setting it up
+	Mouse click event
+	Get Mouse Location action
 	Move To Actor example
 	Place a pawn
 	Assign a controller
+	Placing path nodes
 	use a trigger to move the pawn towards him
+	How to spawn emitter + Actor Factories
+	Projectile factories
 Lab work
 Homework
 
