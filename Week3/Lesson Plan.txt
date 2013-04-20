@@ -1,0 +1,13 @@
+Collect Homework
+Review Blizzard tour
+Discuss first steps geometry wars style game
+Introduce Mouse Interface Game
+	Step through setting it up
+	Move To Actor example
+	Place a pawn
+	Assign a controller
+	use a trigger to move the pawn towards him
+Lab work
+Homework
+
+Go over moving in a 3d space
