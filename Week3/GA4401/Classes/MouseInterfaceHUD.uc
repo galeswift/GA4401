@@ -1,4 +1,4 @@
-class MouseInterfaceHUD extends HUD;
+class MouseInterfaceHUD extends UDKHUD;
 
 // The texture which represents the cursor on the screen
 var const Texture2D CursorTexture;
