@@ -1,0 +1,6 @@
+Homework
+Review Last week
+Discuss geometry wars as a game type
+Moving the player
+Projectiles
+Enemies
