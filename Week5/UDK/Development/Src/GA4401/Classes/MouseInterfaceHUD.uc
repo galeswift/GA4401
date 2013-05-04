@@ -125,7 +125,7 @@ event PostRender()
 		{
 			// Call the mouse out function
 			//LastMouseInteractionActor.MouseOut(CachedMouseWorldOrigin, CachedMouseWorldDirection);
-			TriggerMouseEvent(LastMouseInteractionActor, 9, CachedMouseWorldOrigin, CachedMouseWorldDirection, HitLocation, HitNormal);
+			TriggerMouseEvent(LastMouseInteractionActor, 11, CachedMouseWorldOrigin, CachedMouseWorldDirection, HitLocation, HitNormal);
 
 			// Assign the new mouse interaction interface
 			LastMouseInteractionActor = MouseInteractionActor; 
@@ -135,7 +135,7 @@ event PostRender()
 			{
 				// Call the mouse over function
 				//LastMouseInteractionActor.MouseOver(CachedMouseWorldOrigin, CachedMouseWorldDirection); // Call mouse over
-				TriggerMouseEvent(LastMouseInteractionActor, 8, CachedMouseWorldOrigin, CachedMouseWorldDirection, HitLocation, HitNormal);
+				TriggerMouseEvent(LastMouseInteractionActor, 10, CachedMouseWorldOrigin, CachedMouseWorldDirection, HitLocation, HitNormal);
 			}
 		}
 	}
@@ -145,7 +145,7 @@ event PostRender()
 		LastMouseInteractionActor = MouseInteractionActor; 
 		// Call the mouse over function
 		//LastMouseInteractionActor.MouseOver(CachedMouseWorldOrigin, CachedMouseWorldDirection); 
-		TriggerMouseEvent(LastMouseInteractionActor, 8, CachedMouseWorldOrigin, CachedMouseWorldDirection, HitLocation, HitNormal);
+		TriggerMouseEvent(LastMouseInteractionActor, 10, CachedMouseWorldOrigin, CachedMouseWorldDirection, HitLocation, HitNormal);
 	}
 
 
