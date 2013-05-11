@@ -1,0 +1,63 @@
+What is the difference between prototyping and full production games
+End-to-end
+	Menu
+	Gameplay
+	Win
+	Loss
+	Audio
+	Graphics
+Breaking down a problem
+	Approaching big, complex challenges
+	One of the most important things you can learn to be an effective developer
+Process
+	Determine gameplay
+	Determine visual style (hopefully aids gameplay)
+	Determine flow of the game (win/loss conditions, menus, etc)
+	Create/Edit gameplay
+	Add/Refine Assets
+	Test and repeat
+	Polishing the rest
+	What does tuning mean, and why is it important?
+
+Game types
+	Action
+		Ball + Paddle, Beat-em-up, hack + slash, fighting, maze, pinball, platformer, shooter, FPS, mmo FPS, etc
+	Action-Adventure
+		stealth, horror, zelda, metroid, etc
+	Adventure
+		Text/graphic adventures, monkey island, day of the tentacle
+	RPG
+	Simulation
+		Simcity, sims, Flight sim, vehicle sims
+	Strategy
+		RTS, ARTS, Tower defense, turn based strategy (fire emblem, advance wars), Civilization
+	Music/Party/Arcade/Programming/Trivia/Board/Sports
+	Video games by purpose
+		Casual, Adult, Educational, Serious games
+Group work
+	Whole class exercise, votes on a theme and genre
+Tiny World	
+Exploration	
+Evolution	
+Survival	
+Minimalism	
+Death Is A New Beginning
+Kittens
+Artificial Life
+Alchemy	
+One Room
+Build It, Then Use It	
+Castles In The Sky
+Indirect Control	
+Randomly Generated	
+Growth	
+Limited Resources
+Discovery
+Parallel Universes
+Alternate Reality
+Explore The Universe	
+Castles
+		
+	Group exercise
+		Everyone works on the same theme
+		Work continues next week in class as well, but for polish
