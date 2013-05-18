@@ -28,6 +28,7 @@ event Activated()
 
 defaultproperties
 {
+	bCallHandler=false
 	ObjName="Set DrawScale"
 	ObjCategory="Actor"
 	DrawScaleFloat=1.0f

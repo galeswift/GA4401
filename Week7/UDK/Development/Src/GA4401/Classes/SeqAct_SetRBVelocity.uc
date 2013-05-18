@@ -6,6 +6,7 @@ var() float  VelocityMag;
 /** If TRUE given velocity is relative to actor rotation. Otherwise, velocity is in world space. */
 var() bool	bVelocityRelativeToActorRotation;
 var() bool bAddForce;
+var() bool bSetAngularVelocity;
 event Activated()
 {	
 	local int i;
@@ -37,6 +38,10 @@ event Activated()
 				{
 					Actor(Targets[i]).CollisionComponent.AddForce( V );
 				}
+				else if( bSetAngularVelocity )
+				{
+					Actor(Targets[i]).CollisionComponent.SetRBAngularVelocity( V );
+				}
 				else
 				{
 					Actor(Targets[i]).CollisionComponent.SetRBLinearVelocity( V );
@@ -48,6 +53,7 @@ event Activated()
 
 defaultproperties
 {
+	bCallHandler=false
 	ObjName="Set RB Velocity"
 	ObjCategory="Actor"
 	VariableLinks(1)=(ExpectedType=class'SeqVar_Vector',LinkDesc="Velocity Dir",PropertyName=VelocityDir)

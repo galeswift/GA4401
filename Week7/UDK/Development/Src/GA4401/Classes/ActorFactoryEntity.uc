@@ -4,6 +4,7 @@ class ActorFactoryEntity extends ActorFactoryMover;
 var() int EntityTeam;
 var() float CollisionRadius;
 var() float CollisionHeight;
+var() bool CollideWorld;
 
 /** Allows script to modify new actor */
 simulated event PostCreateActor(Actor NewActor, optional const SeqAct_ActorFactory ActorFactoryData)
@@ -11,6 +12,7 @@ simulated event PostCreateActor(Actor NewActor, optional const SeqAct_ActorFacto
 	Super.PostCreateActor(NewActor, ActorFactoryData);
 	GAEntity(NewActor).EntityTeam = EntityTeam;
 	GAEntity(NewActor).CylinderComponent.SetCylinderSize(CollisionRadius, CollisionHeight);
+	GAEntity(NewActor).bCollideWorld = CollideWorld;
 }
 
 DefaultProperties
@@ -19,4 +21,5 @@ DefaultProperties
 	NewActorClass=class'GA4401.GAEntity'
 	CollisionRadius=+40.000000
 	CollisionHeight=+60.000000
+	CollideWorld=true
 }

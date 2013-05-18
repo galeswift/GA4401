@@ -1,0 +1,63 @@
+Prototype a game in under 7 days
+http://www.gamasutra.com/view/feature/2438/how_to_prototype_a_game_in_under_7_.php
+
+Setup: Rapid is a State of Mind
+
+Embrace the Possibility of Failure - it Encourages Creative Risk Taking
+Enforce Short Development Cycles (More Time != More Quality)
+Constrain Creativity to Make You Want it Even More
+Gather a Kickass Team and an Objective Advisor – Mindset is as Important as Talent
+Develop in Parallel for Maximum Splatter
+Design: Creativity and the Myth of Brainstorming
+
+Formal Brainstorming Has a 0% Success Rate
+Gather Concept Art and Music to Create an Emotional Target
+Simulate in Your Head – Pre-Prototype the Prototype
+Development: Nobody Knows How You Made it, and Nobody Cares
+
+Build the Toy First
+If You Can Get Away With it, Fake it
+Cut Your Losses and "Learn When to Shoot Your Baby in the Crib"
+Heavy Theming Will Not Salvage Bad Design (or "You Can't Polish a Turd")
+But Overall Aesthetic Matters! Apply a Healthy Spread of Art, Sound, and Music
+Nobody Cares About Your Great Engineering
+General Gameplay: Sensual Lessons in Juicy Fun
+
+Complexity is Not Necessary for Fun
+Create a Sense of Ownership to Keep 'em Crawling Back for More
+"Experimental" Does Not Mean "Complex"
+Build Toward a Well Defined Goal
+Make it Juicy!
+
+
+Juicy Talk
+http://www.youtube.com/watch?v=Fy0aCDmgnxg
+
+Juicy Breakout
+==============
+
+An example that we made for a talk at Nordic Game Indie Night: http://www.youtube.com/watch?v=Fy0aCDmgnxg
+
+You can try the game here: http://grapefrukt.com/f/games/juicy-breakout/
+
+A juicy game feels alive and responds to everything you do
+tons of cascading action and response for minimal user input. 
+
+References:
+http://www.robertpenner.com/easing/
+http://www.game-feel.com/
+http://www.gamasutra.com/view/feature/2438/how_to_prototype_a_game_in_under_7...
+
+Emily Short - Make it juicy!
+http://emshort.wordpress.com/2008/05/24/make-it-juicy/
+
+12 Principles of Animation
+http://minyos.its.rmit.edu.au/aim/a_notes/anim_principles.html
+
+The Art of Diablo 3 
+http://gdcvault.com/play/1015306/The-Art-of-Diablo
+
+Easing related:
+https://www.evernote.com/shard/s1/note/c1b7f010-4564-46d9-a8c2-083d8e014b93/c...
+http://blogs.msdn.com/b/shawnhar/archive/2007/05/03/transitions-part-one-the-...
+http://www.timotheegroleau.com/Flash/experiments/easing_function_generator.htm
