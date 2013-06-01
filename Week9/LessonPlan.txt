@@ -1,0 +1,79 @@
+Versioning
+	* As you make content, value of that content goes up
+	* Games and how they utilize it
+	* Perforce is a system for:
+		* Safely storing that work in multiple locations
+		* Saving new versions without losing previous work
+		* Access from different computers
+		* share with others
+	* Can include documents, spreadsheets, images, models, sounds, etc.
+	* Perforce stores all revisions of every file, along with a description of that change
+	* YOu can always get to a previous version
+	* How do you use perforce?
+		* P4V
+		* Plugins (Photoshop, UDK, windows explorer)
+		* Web clients
+	* Workspaces
+		* Where all files live, you need one to function properly
+		* Adding new files into workspace
+			* Workspace view
+		* Accessing new files that you added
+			* Getting the latest revision (Copying from server to home computer)
+			* Can do from depot or workspace view
+		* Editing files
+			* Check out that file
+			* Edit that file
+			* Submit that file
+		* Submitting the file
+			* Note the version # increases and you can see the total number
+		* Locked files vs unlocked
+Perforce
+ * What is it
+ * Normal usage
+ * Other types of source control
+ * Check outs
+ * Commits
+ * Locking
+ * Merging
+ * Branching
+ 
+Tutorial
+	* Command line
+	* Web client
+	* Integrations into other IDEs 
+	* Visual client (P4V)
+	* Icons vs Toolbars
+	
+	* Left pane
+		* Depot tab
+		* Workspace tab
+	* Right pane (Work area)
+		* Pending/submitted changelists
+		* Jobs/Workspaces
+		* File history
+	* View->Show files as
+	* Log pane
+		* P4 commands
+	* Dashboard
+	* Blue checkmarks - Other people have file for edit
+	* Concurrent editing is ok
+	* Caution triangles - Might not have latest version
+		* 1/2: for instance
+	* Pending changelist
+		* Check out files throug menu
+		* Drag and drop
+	* Red checkmarks means you have that file for edit
+	* Double clicking 
+	* Blue vs Green dot icons
+	* Reverting files you don't want
+	* Submitting files
+		* Save vs Submit
+	* Conflicts + Merging
+		* Need help with this one
+		
+	* File history
+		* Diff viewing
+			* Drag-drop or menu
+	* Changelists
+	
+	
