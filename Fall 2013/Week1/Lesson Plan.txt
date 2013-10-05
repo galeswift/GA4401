@@ -1,0 +1,22 @@
+Go over syllabus
+Lecture #1
+Review #1
+	Exercise - Light switch
+		Light switch by button
+	Exercise - Triggers
+		Trigger to change material
+
+Lecture #2
+
+Review #2
+	Exercise - Mouse Pick
+		Click on a spot to move an object there
+	Exercise - Simple AI
+		Enemy that chases you if he has LOS
+		
+	Exercise - Simple ball pickup game
+	
+Vote on game theme
+Next week
+	Lecture on team work
+	
