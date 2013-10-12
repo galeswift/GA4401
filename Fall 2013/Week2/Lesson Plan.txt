@@ -1,0 +1,8 @@
+Collect homework
+Lecture
+Make emitters
+Weapon challenges
+	Make a pistol
+	Make a rocket launcher
+	Make a new type of weapon
+Add Particles, music and SFX today to your game
