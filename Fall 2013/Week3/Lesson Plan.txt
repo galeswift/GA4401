@@ -1,0 +1,11 @@
+Present work
+	Everyone plays each other's games
+Group assignments
+	Practice group problems (analog)
+		Design cards for a game
+	Explain SVN setup for unity project
+		- http://docs.unity3d.com/Documentation/Manual/ExternalVersionControlSystemSupport.html
+	Practice group problem (unity)
+		Design a character for league of legends
+Vote on theme
+	Work on them in class
