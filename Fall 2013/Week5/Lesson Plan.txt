@@ -1,0 +1,13 @@
+I've attached the powerpoint and an attendance roster.  Just have them present their group projects, then have the whole class play each one, then give feedback on it.  
+
+You can ask them specific questions like "What would you have done differently", "What was the biggest challenge you faced working in the group", "What things worked really well", etc. The theme was "Keeping Control".  
+
+They should also make sure to check in their projects into SVN (Source control), they should know how to do this.
+
+In the powerpoint, have everyone vote on the themes that they want to work on (Before you give the group assignments).  Whatever has the most votes gets selected as the theme.
+
+Then have them get into the groups I put on the slide (I underlined who is the group leader).
+
+Have the group leaders set up the unity projects to work in SVN.  Here's a link: http://docs.unity3d.com/Documentation/Manual/ExternalVersionControlSystemSupport.html
+
+I also put this link in the powerpoint (on the last slide).
